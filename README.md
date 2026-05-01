@@ -73,6 +73,3 @@ After deleting tail: 20
 
 ## 👤 Author
 Developed by **Shanzay Malik**  
-  
-
-Would you like me to also sketch out a **diagram (nodes linked with arrows)** for the README so recruiters instantly see how your LSLL works?
