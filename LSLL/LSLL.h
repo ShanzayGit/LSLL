@@ -292,7 +292,6 @@ public:
 		Node<T>* q = head;
 		while (q->next != nullptr)
 		{
-			//p = p->next;
 			if (q->next->next != nullptr)
 			{
 				p = p->next;
