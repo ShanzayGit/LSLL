@@ -27,10 +27,10 @@ LSLL/
 
 ### 🔹 On Linux/Mac (g++)
 Since the implementation is header-only, you just need a driver file:
-
+```
 g++ main.cpp -o lsll_app
 ./lsll_app
-
+```
 ## 🧩 Example Usage
   LSLL<int> list;
 
