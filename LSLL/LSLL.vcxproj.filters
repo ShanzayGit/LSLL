@@ -21,12 +21,6 @@
     <ClInclude Include="LSLL.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ArrayList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ANode.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -35,10 +29,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="String.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
